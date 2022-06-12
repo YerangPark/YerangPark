@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=fff394&height=200&section=header&text=Yerang%20Park&fontSize=80)
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerang2zzang)](https://github.com/깃허브아이디/github-readme-stats)
+[![Yerang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerang2zzang)](https://github.com/yerang2zzang/github-readme-stats)
+</p>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
