@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=fff394&height=200&section=header&text=Yerang%20Park&fontSize=80)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerang2zzang"/></a>&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=yerang2zzang"/></a>&nbsp
-</p>
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
