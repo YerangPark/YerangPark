@@ -46,3 +46,6 @@
   <a href="mailto:buuuuung@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=buuuuung@naver.com"/></a>
 </p>
 <br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfkdvkr)](https://solved.ac/dpfkdvkr)
