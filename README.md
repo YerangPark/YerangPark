@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Yerang!)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYerangPark&count_bg=%23A6A6A6&title_bg=%23555555&icon=&icon_color=%23767676&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -34,7 +33,7 @@
 <h3 align="center">✏️ Studying ✏️</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
@@ -47,8 +46,8 @@
   <a href="mailto:buuuuung@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=buuuuung@naver.com"/></a>
 </p>
 <br>
-</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YerangPark&show_icons=true&bg_color=00000000)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfkdvkr)](https://solved.ac/dpfkdvkr)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfkdvkr)](https://solved.ac/dpfkdvkr)
+
+</div>
