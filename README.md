@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="center">✏️ Studying ✏️</h3>
+<h3 align="center">✏️ Now Studying</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
@@ -47,7 +47,7 @@
 <br>
 
 
-<h3 align="center"> 🐥 Me 🐥 </h3>
+<h3 align="center"> 🐥 Me</h3>
 <p align="center">
   <!--<a href="https://velog.io/@yerang2zzang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yerang2zzang"/></a>&nbsp-->
   <a href="https://yerang2.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-dddddd?style=flat-square&logo=Tistory&logoColor=FF5948&link=https://yerang2.tistory.com"/></a>&nbsp
