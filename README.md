@@ -1,6 +1,3 @@
-## 박예랑 | Yerang Park
-
-
 ### 🪚 주요 기술
 ![image](https://github.com/user-attachments/assets/768ff710-85c1-42c1-8c1e-b2af337462fe)
 
