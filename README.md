@@ -1,63 +1,23 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Yerang!)](https://git.io/typing-svg)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYerangPark&count_bg=%23A6A6A6&title_bg=%23555555&icon=&icon_color=%23767676&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-
-<h3 align="center">🛠 Tech Stack</h3>
-
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/></a>&nbsp 
-  
-</p>
-
-<br>
-
-<h3 align="center">✏️ Now Studying</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
+### 박예랑 | Yerang Park
 
 
-<h3 align="center"> 🐥 Me</h3>
-<p align="center">
-  <!--<a href="https://velog.io/@yerang2zzang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yerang2zzang"/></a>&nbsp-->
-  <a href="https://yerang2.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-dddddd?style=flat-square&logo=Tistory&logoColor=FF5948&link=https://yerang2.tistory.com"/></a>&nbsp
-  <a href="mailto:buuuuung@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=buuuuung@naver.com"/></a>
-</p>
-<br>
+#### 🪚 주요 기술
+![image](https://github.com/user-attachments/assets/768ff710-85c1-42c1-8c1e-b2af337462fe)
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YerangPark&show_icons=true&bg_color=00000000)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfkdvkr)](https://solved.ac/dpfkdvkr)
--->
 
-</div>
+#### 🔭 하고 있는 일
+##### `2024. 4 ~ `
+
+FE 공부 및 프로젝트를 진행하며 취업 준비중입니다.
+
+##### `2021. 5 ~ 2024. 4.`
+
+[아이디스](https://www.idisglobal.com/)에서 임베디드 F/W 및 FE 개발을 담당했습니다.
+
+#### 📝 블로그
+
+제 개인 글은 주로 Obsidian에 작성하지만 그 중 일부는 [블로그](https://yerang2.tistory.com/)에 적기도 합니다.
+
+#### 🗄️ 포트폴리오 및 이력서
+
+[Notion Link](https://yerang2.notion.site/Yerang-Park-182f651988a180bca968c962f59e4894?pvs=4)를 참고해주세요.
