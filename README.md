@@ -15,6 +15,3 @@ FE 공부 및 프로젝트를 진행하며 취업 준비중입니다.
 
 제 개인 글은 주로 Obsidian에 작성하지만 그 중 일부는 [블로그](https://yerang2.tistory.com/)에 적기도 합니다.
 
-### 🗄️ 포트폴리오 및 이력서
-
-[Notion Link](https://yerang2.notion.site/Yerang-Park-182f651988a180bca968c962f59e4894?pvs=4)를 참고해주세요.
