@@ -1,5 +1,5 @@
 ### 🪚 주요 기술
-![image](https://github.com/user-attachments/assets/768ff710-85c1-42c1-8c1e-b2af337462fe)
+![image](https://github.com/user-attachments/assets/6f402edf-4a7d-401a-8c23-643413a2fe50)
 
 
 ### 🔭 하고 있는 일
