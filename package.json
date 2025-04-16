@@ -1,0 +1,25 @@
+{
+  "name": "yerangpark",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/user-attachments/assets/6f402edf-4a7d-401a-8c23-643413a2fe50)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YerangPark/YerangPark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YerangPark/YerangPark/issues"
+  },
+  "homepage": "https://github.com/YerangPark/YerangPark#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
