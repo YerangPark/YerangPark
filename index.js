@@ -19,9 +19,10 @@ FE 공부 및 프로젝트를 진행하며 취업 준비중입니다.
 [아이디스](https://www.idisglobal.com/)에서 임베디드 F/W 및 FE 개발을 담당했습니다.
 
 
-## 📕 최근 블로그 글
+## 📕 블로그
 제 개인 글은 주로 Obsidian에 작성하지만 그 중 일부는 [블로그](https://yerang2.tistory.com/)에 적기도 합니다.
 
+#### 최근 블로그 글
 `;
 
 // rss-parser 생성
